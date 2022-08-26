@@ -3,6 +3,7 @@
 * **DATA_MINING: Web Scraping Technique**
 
 1: Using web-scraping technique, it save to a csv file all the names and prices of the books from the website (1-50): https://books.toscrape.com/.
+
 2: Live plot (refreshed every 1 second) of the growth of the world population using web-scrapping technique, from web site https://countrymeters.info/en/World.
 
 * **Machine_Learning_Applied_In_Physics: Machine Learning Física de Partículas y Materiales Superconductores**
