@@ -17,3 +17,7 @@ Construcción de Red Neuronal profunda con una precisión superior al 70% para l
 * **Proyecto_NLP: Colombian media during the 2021 protests - Analysis with NLP**
 
 Proyecto de clasificación que compara técnicas de Machine Learning y Deep Learning para predecir el sesgo y la gravedad de un fragmento de noticia sobre el Paro Nacional 2021 (Colombia).
+
+* **Sentiment Analysis of Teewts with NLP**
+
+Comparison of the performance of diferents models for NLP such as TextBlob, Text Analytics of Microsoft Azure, my own model with Sklearn and Transformers RoBerta of Hugging Face, for Sentiment Analysis in Tweets from Airline company.
