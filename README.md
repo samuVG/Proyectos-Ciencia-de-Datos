@@ -6,6 +6,10 @@
 
 2: Live plot (refreshed every 1 second) of the growth of the world population using web-scrapping technique, from web site https://countrymeters.info/en/World.
 
+* **Dataton_Bancolombia_2022: Categorizador y Recomendador de Noticias**
+
+Proyecto de NLP y Aprendizaje No Supervisado, uso de Latent Dirichlet Allocation para Topic Modelling y bases de datos relacionales.
+
 * **Machine_Learning_Applied_In_Physics: Machine Learning Física de Partículas y Materiales Superconductores**
 
 Modelo de Regresión Lineal Regularizada orientado a la predicción de la temperatura crítica de materiales superconductores; Regresión Lineal, Regresión Ridge, Regresión Lasso y Elastic Net. Por otro lado, modelo de Clasificación para predecir si un proceso en el Acelerador de Hadrones Produce partículas supersimétricas o no, conocido como procesos SUSY. Se implementaron modelos como Regresión Logística, Árbol de Decisión y SVC Máquina de Sporte Vectorial para clasificar.
